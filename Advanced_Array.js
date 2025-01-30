@@ -24,7 +24,7 @@ function cal(num1,num2, callback){
     let num2 = prompt("enter second number")
 
     let   firstNum = parseInt(num1)
-    let fecondNum = parseInt(num2)
+    let secondNum = parseInt(num2)
 
 
-console.log(cal(firstNum, fecondNum, add))
+console.log(cal(firstNum, secondNum, add))
